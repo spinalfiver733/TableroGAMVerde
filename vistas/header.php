@@ -33,15 +33,34 @@
   <link rel="stylesheet" type="text/css" href="../public/css/bootstrap-select.min.css">
   
 <style>
-    
-    @font-face {
-
-font-family: montserrat;
-
-src: url(http://www.intranet.gamadero.cdmx.gob.mx/public/fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
-
-} 
-    </style>
+  /* Add these new styles */
+  #header-navbar {
+      background-color: #B7E4C7 !important;
+      background-image: none !important;
+  }
+  
+  #page-wrapper {
+      background-color: #B7E4C7 !important;
+      background-image: none !important;
+  }
+  
+  #nav-col {
+      background-color: #B7E4C7 !important;
+      background-image: none !important;
+  }
+  
+  .nav-stacked {
+      background-color: #B7E4C7 !important;
+      background-image: none !important;
+  }
+  
+  /* Override any existing background images */
+  [style*="background-image: url('img/cinto.png')"],
+  [style*="background-image: url('img/patron_ch.png')"] {
+      background-color: #B7E4C7 !important;
+      background-image: none !important;
+  }
+  </style>
 
 </head>
 <body>
@@ -51,14 +70,12 @@ src: url(http://www.intranet.gamadero.cdmx.gob.mx/public/fonts/Montserrat/Montse
   background-size: cover;
   background-size: 100%;">
 
-<div class="container">   
+<div class="container"> 
+  <!---  
 <div class="col-md-12">
     <img src="../vistas/img/logam_jc_sf.png" width="15%">
 </div>
-
-
-    
-    
+--->
 </div> 
 
 <div class="clearfix">
