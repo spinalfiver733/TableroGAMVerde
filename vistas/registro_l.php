@@ -297,11 +297,11 @@ if ($_SESSION['Captura_l']==1)
 </style>
 
 <body onload="mueveReloj()">
+<div class="header-container">
+    <h1 class="header-title"><strong>ESTRUCTURA GAM</strong></h1>
+    <h4><strong><p class="header-subtitle">CAPTURA TABLERO DE CONTROL 2025</p></strong></h2>
+</div>
 <div class="form-container">
-    <div class="header-container">
-        <h1 class="header-title"><strong>ESTRUCTURA GAM</strong></h1>
-        <h4><strong><p class="header-subtitle">CAPTURA TABLERO DE CONTROL 2025</p></strong></h2>
-    </div>
     <form action="cargar_l.php" method="POST" enctype="multipart/form-data">
         <!-- Inputs hidden -->
         <?php

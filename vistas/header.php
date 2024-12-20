@@ -32,35 +32,140 @@
   <link href="../public/datatables/responsive.dataTables.min.css" rel="stylesheet"/>
   <link rel="stylesheet" type="text/css" href="../public/css/bootstrap-select.min.css">
   
-<style>
-  /* Add these new styles */
-  #header-navbar {
-      background-color: #B7E4C7 !important;
-      background-image: none !important;
-  }
-  
-  #page-wrapper {
-      background-color: #B7E4C7 !important;
-      background-image: none !important;
-  }
-  
-  #nav-col {
-      background-color: #B7E4C7 !important;
-      background-image: none !important;
-  }
-  
-  .nav-stacked {
-      background-color: #B7E4C7 !important;
-      background-image: none !important;
-  }
-  
-  /* Override any existing background images */
-  [style*="background-image: url('img/cinto.png')"],
-  [style*="background-image: url('img/patron_ch.png')"] {
-      background-color: #B7E4C7 !important;
-      background-image: none !important;
-  }
-  </style>
+  <style>
+    /* Estilos base del header y contenedores */
+    #header-navbar {
+        background-color: #B7E4C7 !important;
+        background-image: none !important;
+    }
+    
+    #page-wrapper {
+        background-color: #B7E4C7 !important;
+        background-image: none !important;
+    }
+    
+    #nav-col {
+        background-color: #B7E4C7 !important;
+        background-image: none !important;
+    }
+    
+    .nav-stacked {
+        background-color: #B7E4C7 !important;
+        background-image: none !important;
+    }
+    
+    /* Override de imágenes de fondo */
+    [style*="background-image: url('img/cinto.png')"],
+    [style*="background-image: url('img/patron_ch.png')"] {
+        background-color: #B7E4C7 !important;
+        background-image: none !important;
+    }
+
+    /* Estilos del menú pequeño */
+    #make-small-nav {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #make-small-nav .fa-bars {
+        color: #194230;
+        font-size: 24px;
+        font-weight: 900;
+    }
+
+    #make-small-nav:hover .fa-bars {
+        opacity: 0.8;
+    }
+
+    /* Contenedor para menú y bienvenida en móvil */
+    .mobile-header {
+        padding: 10px 15px;
+        background-color: #B7E4C7;
+    }
+
+    .menu-welcome-container {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    /* Botón de navegación responsive */
+    .navbar-toggle {
+        padding: 8px;
+        margin: 0;
+        background: transparent;
+        border: none;
+    }
+
+    .navbar-toggle .fa-bars {
+        color: #194230;
+        font-size: 24px;
+        font-weight: 900;
+    }
+
+    .navbar-toggle:hover,
+    .navbar-toggle:focus,
+    .navbar-toggle:active {
+        background-color: transparent !important;
+        opacity: 0.8;
+    }
+
+    /* Estilos para el texto de bienvenida en desktop */
+    .welcome-text {
+        padding: 8px 15px;
+        line-height: 1.2;
+    }
+
+    .welcome-text .bienvenido {
+        color: #194230;
+        font-size: 14px;
+        display: block;
+    }
+
+    .welcome-text .user-name {
+        color: #194230;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    /* Texto de bienvenida en móvil */
+    .welcome-text-mobile {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .welcome-text-mobile .bienvenido {
+        color: #194230;
+        font-size: 14px;
+        line-height: 1;
+    }
+
+    .welcome-text-mobile .user-name {
+        color: #194230;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.2;
+    }
+
+    /* Ajustes para alinear el texto con el ícono */
+    .nav-no-collapse .navbar-nav {
+        display: flex;
+        align-items: center;
+    }
+
+    /* Media queries para ajustes responsive */
+    @media (max-width: 768px) {
+        .menu-welcome-container {
+            width: 100%;
+        }
+        
+        .mobile-header {
+            width: 100%;
+        }
+    }
+</style>
 
 </head>
 <body>
@@ -79,24 +184,36 @@
 </div> 
 
 <div class="clearfix">
-<button class="navbar-toggle" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button">
-<span class="sr-only">Toggle navigation</span>
-<span class="fa fa-bars"></span>
+    <!-- Contenedor para móviles -->
+    <div class="mobile-header visible-xs visible-sm">
+        <div class="menu-welcome-container">
+            <button class="navbar-toggle" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button">
+                <span class="sr-only">Toggle navigation</span>
+                <i class="fa fa-bars"></i>
+            </button>
+            <div class="welcome-text-mobile">
+                <span class="bienvenido"><strong>Bienvenido</strong></span>
+                <span class="user-name">¡Hola, <?php echo $_SESSION['nombre']; ?>!</span>
+            </div>
+        </div>
+    </div>
 
-</button>
-
-<div class="nav-no-collapse navbar-left pull-left hidden-sm hidden-xs"> 
-<ul class="nav navbar-nav pull-left">
-  
-
-<li>
-<a class="btn" id="make-small-nav"><i class="fa fa-bars"></i></a> 
-</li>
-</ul>
+    <!-- Contenedor para desktop (sin cambios) -->
+    <div class="nav-no-collapse navbar-left pull-left hidden-sm hidden-xs"> 
+        <ul class="nav navbar-nav">
+            <li>
+                <a class="btn" id="make-small-nav">
+                    <i class="fa fa-bars"></i>
+                </a> 
+            </li>
+            <li class="welcome-text">
+                <span class="bienvenido">bienvenido</span>
+                <span class="user-name">¡Hola, <?php echo $_SESSION['nombre']; ?>!</span>
+            </li>
+        </ul>
+    </div>
 </div>
       
-   
-
 <div class="nav-no-collapse pull-right" id="header-nav">
 <ul class="nav navbar-nav pull-left">
 <li class="dropdown profile-dropdown">
