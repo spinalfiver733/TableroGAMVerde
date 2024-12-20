@@ -1,0 +1,29 @@
+1.-crear la tabla en mysql del servidor Gam
+con los campos:
+
+create table captura_lideres (
+  id text primary key,
+  cvel text,
+  cveut text,
+  ut text,
+  cvecol text,
+  col text,
+  fecha text,
+  act text,
+  ben text,
+  tipo text,
+  monto double precision,
+  ubicacion text,
+  latitud double precision,
+  longitud double precision
+);
+
+Los descriptores de esos campos están en el archivo
+"descriptores_tabla.csv"
+
+2.-Compartir los siguientes datos para conectar a power bi:
+   1) dirección hacia la base de datos en el servidor
+   2) nombre de la base de datos
+
+3.-Adecuar el sistema de captura con esos los campos
+   mencionados arriba

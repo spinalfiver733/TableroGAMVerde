@@ -1,0 +1,1620 @@
+[26-Jan-2021 07:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 07:10:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 07:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 07:10:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 07:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 07:27:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 07:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 07:32:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:44 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:49 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:50 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:51 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:51 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:51 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:18:52 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:19:01 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:10 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:19:11 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:19:12 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:19:14 UTC] PHP Notice:  Undefined variable: coneion in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[26-Jan-2021 17:19:49 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:19:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:19:53 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:19:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:02 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:02 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:03 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:03 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:20 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:21 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:24 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:30 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:32 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:40 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:43 UTC] PHP Warning:  require_once(global.ph): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:20:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'global.ph' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 2
+[26-Jan-2021 17:21:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:22:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 17:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 18:29:42 UTC] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 18:29:45 UTC] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 18:29:52 UTC] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 18:32:21 UTC] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 18:32:23 UTC] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 18:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[26-Jan-2021 18:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[28-Jan-2021 18:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[28-Jan-2021 18:25:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/ajax/usuarios.php on line 141
+[28-Jan-2021 19:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:41
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(33): Pago->mostrar('5')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 41
+[28-Jan-2021 19:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:41
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(33): Pago->mostrar('4')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 41
+[18-Feb-2021 18:15:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:08 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:09 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:09 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:09 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:36 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:15:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:15:36 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:12 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:49 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:49 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:49 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:49 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:17:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:17:53 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:19:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:19:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 18:19:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'israelvazquez'@'localhost' (using password: YES) in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 4
+[18-Feb-2021 18:19:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/e3ui0lwrvram/public_html/sistema/config/Conexion.php on line 6
+[18-Feb-2021 19:20:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:20:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:20:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:20:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:20:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:20:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:21:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:21:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 65
+[18-Feb-2021 19:22:49 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:24:30 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:24:30 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:26:45 UTC] PHP Warning:  move_uploaded_file(../files/comprobantes/1613676406.jpg): failed to open stream: No such file or directory in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 28
+[18-Feb-2021 19:26:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNfeSMn' to '../files/comprobantes/1613676406.jpg' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 28
+[18-Feb-2021 19:26:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:26:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:26:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:32:17 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:32:17 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:32:17 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:32:20 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:32:20 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:32:20 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:33:25 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:33:25 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:33:25 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:33:25 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Pago::insertar(), 4 passed in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32 and exactly 5 expected in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:12
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(32): Pago->insertar('4', 'diana', '2021-02-18', '5000')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 12
+[18-Feb-2021 19:37:49 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:49 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:49 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:49 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:53 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:53 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:53 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:57 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:37:57 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:38:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Pago::insertar(), 4 passed in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32 and exactly 5 expected in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:12
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(32): Pago->insertar('3', 'israel vazquez', '2021-02-18', '1000')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 12
+[18-Feb-2021 19:39:34 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:39:34 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:39:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Pago::insertar(), 4 passed in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32 and exactly 5 expected in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:12
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(32): Pago->insertar('4', 'oluio,uk', '2021-02-18', '725')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 12
+[18-Feb-2021 19:40:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Pago::insertar(), 4 passed in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32 and exactly 5 expected in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:12
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(32): Pago->insertar('3', '\xC3\xB1lk{kl\xC3\xB1kihl\xC3\xB1...', '2021-02-18', '8638')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 12
+[18-Feb-2021 19:40:23 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:40:23 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:46:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Pago::insertar(), 4 passed in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32 and exactly 5 expected in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:12
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(32): Pago->insertar('3', 'tyjt', '2021-02-18', '8386')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 12
+[18-Feb-2021 19:47:53 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:47:53 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:48:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Pago::insertar(), 4 passed in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32 and exactly 5 expected in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:12
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(32): Pago->insertar('3', 'hjkhjykh', '2021-02-18', '638')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 12
+[18-Feb-2021 19:51:09 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:51:09 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:51:28 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:51:28 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:51:28 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:53:40 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:53:40 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:53:40 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:53:52 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:53:52 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:53:52 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:53:52 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 19:57:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:42
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(48): Pago->mostrar('6')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[18-Feb-2021 19:57:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:42
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(48): Pago->mostrar('8')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[18-Feb-2021 19:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:42
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(48): Pago->mostrar('9')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[18-Feb-2021 19:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:42
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(48): Pago->mostrar('10')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[18-Feb-2021 19:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:42
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(48): Pago->mostrar('9')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[18-Feb-2021 19:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:42
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(48): Pago->mostrar('8')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[18-Feb-2021 19:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php:42
+Stack trace:
+#0 /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php(48): Pago->mostrar('6')
+#1 {main}
+  thrown in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[18-Feb-2021 20:07:13 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:13 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:13 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:13 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:17 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:17 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:17 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:17 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:59 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:59 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:59 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:07:59 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:01 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:01 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:01 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:01 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:27 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:27 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:27 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:08:27 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:29 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:29 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:29 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:29 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[18-Feb-2021 20:11:29 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:20:00 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:20:00 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:20:00 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:20:00 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:20:00 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:42 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:42 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:42 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:42 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:42 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:29:45 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:37:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:37:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:37:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:37:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:37:15 UTC] PHP Notice:  Undefined property: stdClass::$imagen in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 16:38:03 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:06 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:06 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:07 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:07 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:07 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:08 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:09 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:10 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:32 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:33 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:35 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 16:38:47 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 17:27:05 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[19-Feb-2021 18:03:05 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:03:09 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:03:10 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:04:08 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:04:11 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:04:15 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:04:18 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:06:59 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[19-Feb-2021 18:07:02 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 66
+[22-Feb-2021 16:41:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 67
+[22-Feb-2021 16:41:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 67
+[22-Feb-2021 16:42:23 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 67
+[22-Feb-2021 16:42:23 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 67
+[22-Feb-2021 16:47:20 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 67
+[22-Feb-2021 16:47:20 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 67
+[22-Feb-2021 16:52:38 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 68
+[22-Feb-2021 16:52:38 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 68
+[22-Feb-2021 16:55:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 68
+[22-Feb-2021 16:55:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 68
+[22-Feb-2021 16:55:36 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 16:55:54 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 68
+[22-Feb-2021 16:55:54 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 68
+[22-Feb-2021 16:58:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 16:58:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 16:59:00 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:06:36 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:06:36 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:06:37 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:09:06 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:09:06 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:09:08 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:09:20 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:09:36 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:09:36 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:09:39 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:09:41 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:11:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:11:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 17:14:16 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 71
+[22-Feb-2021 17:14:16 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 81
+[22-Feb-2021 17:14:16 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 71
+[22-Feb-2021 17:14:16 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 81
+[22-Feb-2021 17:14:27 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:17:03 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:17:03 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:17:03 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:17:03 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:20:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:20:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:20:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:20:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:29:54 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:29:54 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:29:54 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:29:54 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:30:02 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 17:30:22 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:30:22 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:30:22 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:30:22 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:38:37 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:38:37 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:38:37 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:38:37 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:42:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:42:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:42:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:42:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:46:42 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:46:42 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:46:42 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:46:42 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:46:57 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:46:57 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:46:57 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:46:57 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:55:10 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:55:10 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:55:10 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:55:10 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:57:34 UTC] PHP Warning:  Missing argument 6 for Pago::insertar(), called in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32 and defined in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 12
+[22-Feb-2021 17:57:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:57:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:57:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:57:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 17:57:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 17:57:34 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:04:48 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:04:48 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:04:48 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:04:48 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:04:48 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:04:48 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:06:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:06:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:06:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:06:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:06:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:06:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:09:14 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:09:14 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:09:14 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:09:14 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:09:14 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:09:14 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:12:38 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:40 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:40 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:41 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:41 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:41 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:42 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:42 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:42 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:43 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:43 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:43 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:43 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:44 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:12:44 UTC] PHP Fatal error:  Call to undefined function ejectuarConsultaSimpleFila() in /home/e3ui0lwrvram/public_html/sistema/modelos/Pagos.php on line 42
+[22-Feb-2021 18:17:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 22
+[22-Feb-2021 18:17:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 22
+[22-Feb-2021 18:17:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 22
+[22-Feb-2021 18:17:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 22
+[22-Feb-2021 18:17:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 22
+[22-Feb-2021 18:17:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 22
+[22-Feb-2021 18:17:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:17:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:17:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:17:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:17:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:17:55 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:24 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:24 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:24 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:24 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:24 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:24 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:26 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:26 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:26 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:26 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:18:26 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:18:26 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:33:00 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:33:00 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:33:00 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:33:00 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:33:00 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:33:00 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:36:13 UTC] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-warnin' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:36:13 UTC] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-warnin' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:36:14 UTC] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-warnin' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:36:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:36:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:36:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:36:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:36:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:36:40 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:37:17 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:37:17 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:37:17 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:37:17 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:37:17 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:37:17 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:37:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:37:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:37:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:37:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:37:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:37:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:38:27 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:38:27 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:38:27 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:38:27 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:38:27 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:38:27 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:38:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:38:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:38:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:38:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:38:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:38:56 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 80
+[22-Feb-2021 18:40:02 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:40:02 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:40:02 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:40:02 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:40:02 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:40:02 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$pago in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 71
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$pago in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 71
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$pago in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 71
+[22-Feb-2021 18:41:21 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:44:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:44:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:44:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:44:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:44:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:44:30 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:47:41 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:47:41 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:47:41 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:47:41 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:47:41 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:47:41 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:50:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:50:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:50:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:50:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[22-Feb-2021 18:50:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 70
+[22-Feb-2021 18:50:50 UTC] PHP Notice:  Undefined property: stdClass::$estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 78
+[23-Feb-2021 17:36:06 UTC] PHP Notice:  Undefined variable: estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32
+[23-Feb-2021 17:37:19 UTC] PHP Notice:  Undefined variable: estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32
+[23-Feb-2021 17:47:33 UTC] PHP Notice:  Undefined variable: estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32
+[27-Feb-2021 01:26:56 UTC] PHP Notice:  Undefined variable: estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32
+[11-May-2021 17:08:42 UTC] PHP Notice:  Undefined variable: estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32
+[17-May-2021 15:30:14 UTC] PHP Notice:  Undefined variable: estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32
+[17-May-2021 17:09:15 UTC] PHP Notice:  Undefined variable: estado in /home/e3ui0lwrvram/public_html/sistema/ajax/pagos.php on line 32
+[03-Jan-2022 17:02:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'inquilinet'@'localhost' (using password: YES) in /home/c3jx67ds1m86/public_html/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[03-Jan-2022 17:02:34 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/c3jx67ds1m86/public_html/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home/c3jx67ds1m86/public_html/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query()
+#1 /home/c3jx67ds1m86/public_html/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home/c3jx67ds1...')
+#2 /home/c3jx67ds1m86/public_html/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home/c3jx67ds1...')
+#3 {main}
+  thrown in /home/c3jx67ds1m86/public_html/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[03-Jan-2022 17:04:42 UTC] PHP Warning:  Undefined variable $estado in /home/c3jx67ds1m86/public_html/inquilinet.com.mx/sistema/ajax/pagos.php on line 32
+[27-Oct-2023 19:21:14 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'isravazquez'@'localhost' (using password: YES) in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:4
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(4): mysqli->__construct('localhost', 'isravazquez', Object(SensitiveParameterValue), 'inquilinet')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[27-Oct-2023 19:21:16 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'isravazquez'@'localhost' (using password: YES) in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:4
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(4): mysqli->__construct('localhost', 'isravazquez', Object(SensitiveParameterValue), 'inquilinet')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[27-Oct-2023 19:21:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'isravazquez'@'localhost' (using password: YES) in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:4
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(4): mysqli->__construct('localhost', 'isravazquez', Object(SensitiveParameterValue), 'inquilinet')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[27-Oct-2023 19:23:28 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'systemxl_systemx'@'localhost' (using password: YES) in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:4
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(4): mysqli->__construct('localhost', 'systemxl_system...', Object(SensitiveParameterValue), 'systemxl_inquil...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[27-Oct-2023 19:23:29 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'systemxl_systemx'@'localhost' (using password: YES) in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:4
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(4): mysqli->__construct('localhost', 'systemxl_system...', Object(SensitiveParameterValue), 'systemxl_inquil...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[27-Oct-2023 19:24:53 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'systemxl_systemx'@'localhost' (using password: YES) in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:4
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(4): mysqli->__construct('localhost', 'systemxl_system...', Object(SensitiveParameterValue), 'systemxl_inquil...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[27-Oct-2023 19:24:55 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'systemxl_systemx'@'localhost' (using password: YES) in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:4
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(4): mysqli->__construct('localhost', 'systemxl_system...', Object(SensitiveParameterValue), 'systemxl_inquil...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 4
+[27-Oct-2023 19:27:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[27-Oct-2023 19:29:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[27-Oct-2023 19:29:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[27-Oct-2023 19:29:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[27-Oct-2023 19:29:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[27-Oct-2023 19:29:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[27-Oct-2023 19:29:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/inquilinet.com.mx/sistema/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/inquilinet.com.mx/sistema/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/config/Conexion.php on line 6
+[28-Oct-2023 02:40:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home1/systemxl/inquilinet.com.mx/sistema/ajax/prestamos.php:58
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistema/ajax/prestamos.php on line 58
+[04-Jan-2024 14:07:36 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:07:38 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:07:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:07:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:08:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:08:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:08:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:08:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:08:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:24 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:24 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:24 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:24 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:25 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:25 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:32 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:32 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:09:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:10:21 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:10:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:10:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:10:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[04-Jan-2024 14:10:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:35 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:40 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:44 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:44 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:44 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:44 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:49:44 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:50:26 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:51:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:51:15 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:01 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:03 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:07 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:07 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:54:07 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:58:15 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:58:17 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:58:17 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 14:59:53 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:00:01 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:03:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:03:40 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:03:40 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:03:41 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:03:41 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:03:41 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:13:33 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:13:34 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:13:34 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:13:35 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 15:13:35 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:18:30 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:18:32 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:18:32 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:18:32 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:18:33 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:22:55 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:22:56 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:22:56 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:22:56 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:23:03 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:23:04 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:23:04 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:23:04 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_query() expects at least 2 arguments, 1 given in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli))
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:29:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:29:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown system variable 'character_set_result' in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/config/Conexion.php(6): mysqli_query(Object(mysqli), 'SET character_s...')
+#1 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require('/home1/systemxl...')
+#2 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#3 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:40:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:40:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:42:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:42:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:42:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:44:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:44:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:44:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:44:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:44:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:47:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:47:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:48:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/public_html/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/public_html/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/public_html/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/public_html/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:52:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/inquilinet.com.mx/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/config/Conexion.php on line 6
+[09-Mar-2024 18:52:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/inquilinet.com.mx/sistemamorena/config/Conexion.php:6
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/modelos/Usuarios.php(3): require()
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/ajax/usuarios.php(3): require_once('/home1/systemxl...')
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/config/Conexion.php on line 6
+[14-Mar-2024 16:11:50 America/Mexico_City] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/systemxl/inquilinet.com.mx/sistemamorena/modelos/Usuarios.php on line 24
+[15-Mar-2024 14:57:59 America/Mexico_City] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/systemxl/inquilinet.com.mx/sistemamorena/modelos/Usuarios.php on line 24

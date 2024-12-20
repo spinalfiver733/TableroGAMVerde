@@ -1,0 +1,1130 @@
+[15-Mar-2024 20:07:36 America/Mexico_City] PHP Warning:  require(conexion.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 11
+[15-Mar-2024 20:07:36 America/Mexico_City] PHP Warning:  require(conexion.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 11
+[15-Mar-2024 20:07:36 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'conexion.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 11
+[15-Mar-2024 20:13:34 America/Mexico_City] PHP Warning:  require_once(./../config/Conexion.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 5
+[15-Mar-2024 20:13:34 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required './../config/Conexion.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 5
+[15-Mar-2024 20:13:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 13
+[15-Mar-2024 20:16:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 14
+[15-Mar-2024 20:16:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 14
+[15-Mar-2024 20:16:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 15
+[15-Mar-2024 20:22:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 16
+[15-Mar-2024 20:23:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias.php on line 16
+[15-Mar-2024 20:33:20 America/Mexico_City] PHP Warning:  require_once(Conexion.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:33:20 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'Conexion.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:34:58 America/Mexico_City] PHP Warning:  require_once(Conexion.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:34:58 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'Conexion.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:35:03 America/Mexico_City] PHP Warning:  require_once(Conexion.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:35:03 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'Conexion.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:35:18 America/Mexico_City] PHP Warning:  require_once(Conexion.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:35:18 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'Conexion.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 3
+[15-Mar-2024 20:35:51 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:36:21 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:36:41 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:37:06 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:37:25 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:37:27 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:37:52 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:37:55 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:39:18 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:39:19 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:39:20 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:39:20 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:39:20 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:39:20 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:39:55 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:41:50 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:42:19 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:42:40 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:42:51 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[15-Mar-2024 20:43:11 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: metropolis-lightitalic  in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(510): FPDF->Error('Undefined font:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(20): FPDF->SetFont('metropolis-ligh...', '', 8)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:43:34 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: metropolis-lightitalic  in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(510): FPDF->Error('Undefined font:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(20): FPDF->SetFont('metropolis-ligh...', '', 8)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:43:40 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: metropolis-lightitalic  in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(510): FPDF->Error('Undefined font:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(20): FPDF->SetFont('metropolis-ligh...', '', 8)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:44:05 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 9
+[15-Mar-2024 20:56:38 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Incorrect orientation: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(149): FPDF->Error('Incorrect orien...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('a2')
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:13 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:15 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:16 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:39 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:40 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:41 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:41 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:41 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:57:42 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('P', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:59:09 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a2 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a2')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('L', 'mm', 'A2')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 20:59:15 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unknown page size: a1 in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1073): FPDF->Error('Unknown page si...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(131): FPDF->_getpagesize('a1')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(41): FPDF->__construct('L', 'mm', 'A1')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:38:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Image() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:11
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(334): PDF->Header()
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(51): FPDF->AddPage()
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 11
+[15-Mar-2024 21:38:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Image() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:11
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(334): PDF->Header()
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(51): FPDF->AddPage()
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 11
+[15-Mar-2024 21:52:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:45
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 45
+[15-Mar-2024 21:52:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:45
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 45
+[15-Mar-2024 21:53:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:51
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 51
+[15-Mar-2024 21:56:55 America/Mexico_City] PHP Warning:  getimagesize(leon.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 21:56:55 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: leon.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('leon.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('leon.jpg', 80, 22, 35, 38, 'jpg', 'http://www.desa...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:57:16 America/Mexico_City] PHP Warning:  getimagesize(img/fonfo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 21:57:16 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/fonfo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('img/fonfo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/fonfo_repor...', 80, 22, 35, 38, 'jpg', 'http://www.desa...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:57:18 America/Mexico_City] PHP Warning:  getimagesize(img/fonfo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 21:57:18 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: img/fonfo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('img/fonfo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/fonfo_repor...', 80, 22, 35, 38, 'jpg', 'http://www.desa...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:57:58 America/Mexico_City] PHP Warning:  fopen(img/fonfo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 21:57:58 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/fonfo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/fonfo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/fonfo_repor...', 80, 22, 35, 38, 'png', 'http://www.desa...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:58:05 America/Mexico_City] PHP Warning:  fopen(img/fonfo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 21:58:05 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/fonfo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/fonfo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/fonfo_repor...', 80, 22, 35, 38, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:58:19 America/Mexico_City] PHP Warning:  fopen(img/fondo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 21:58:19 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/fondo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/fondo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/fondo_repor...', 80, 22, 35, 38, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:58:21 America/Mexico_City] PHP Warning:  fopen(img/fondo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 21:58:21 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/fondo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/fondo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/fondo_repor...', 80, 22, 35, 38, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:58:48 America/Mexico_City] PHP Warning:  getimagesize(leon.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 21:58:48 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: leon.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('leon.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(51): FPDF->Image('leon.jpg', 80, 22, 35, 38, 'jpg', 'http://www.desa...')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:59:17 America/Mexico_City] PHP Warning:  fopen(img/fondo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 21:59:17 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/fondo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/fondo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(51): FPDF->Image('img/fondo_repor...', 80, 22, 35, 38, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:59:26 America/Mexico_City] PHP Warning:  fopen(img/fondo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 21:59:26 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/fondo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/fondo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(51): FPDF->Image('img/fondo_repor...', 80, 22, 35, 38, 'png', 'hola')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:59:40 America/Mexico_City] PHP Warning:  fopen(img/fondo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 21:59:40 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/fondo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/fondo_repor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/fondo_repor...', 80, 22, 35, 38, 'png', 'hola')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 21:59:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Image() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:11
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(334): PDF->Header()
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(33): FPDF->AddPage()
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 11
+[15-Mar-2024 21:59:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Image() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:11
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(334): PDF->Header()
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(33): FPDF->AddPage()
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 11
+[15-Mar-2024 22:03:56 America/Mexico_City] PHP Warning:  fopen(img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:03:56 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('img/17104331031...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('img/17104331031...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:04:34 America/Mexico_City] PHP Warning:  fopen(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:04:34 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:04:36 America/Mexico_City] PHP Warning:  fopen(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:04:36 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:04:46 America/Mexico_City] PHP Warning:  getimagesize(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:04:46 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:05:29 America/Mexico_City] PHP Warning:  getimagesize(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:05:29 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:06:55 America/Mexico_City] PHP Warning:  getimagesize(../img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:06:55 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../img/17104331...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../img/17104331...', 30, 70, 300, 400)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:06:57 America/Mexico_City] PHP Warning:  getimagesize(../img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:06:57 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../img/17104331...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../img/17104331...', 30, 70, 300, 400)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:07:09 America/Mexico_City] PHP Warning:  fopen(../img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:07:09 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../img/17104331...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../img/17104331...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:07:16 America/Mexico_City] PHP Warning:  fopen(../../img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:07:16 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../../img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../../img/17104...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../../img/17104...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:07:18 America/Mexico_City] PHP Warning:  fopen(../../img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:07:18 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../../img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../../img/17104...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../../img/17104...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:08:24 America/Mexico_City] PHP Warning:  fopen(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:08:24 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:16:17 America/Mexico_City] PHP Warning:  fopen(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:16:17 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:16:23 America/Mexico_City] PHP Warning:  fopen(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:16:23 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:21:06 America/Mexico_City] PHP Warning:  fopen(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:21:06 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:21:42 America/Mexico_City] PHP Warning:  fopen(./img/17104331031404490057456256809991.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:21:42 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/17104331031404490057456256809991.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/171043310...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/171043310...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:22:49 America/Mexico_City] PHP Warning:  getimagesize(./img/1.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:22:49 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ./img/1.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('./img/1.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/1.jpg', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:22:56 America/Mexico_City] PHP Warning:  getimagesize(/img/1.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:22:56 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: /img/1.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('/img/1.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('/img/1.jpg', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:23:02 America/Mexico_City] PHP Warning:  getimagesize(.img/1.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:23:02 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: .img/1.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('.img/1.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('.img/1.jpg', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:23:50 America/Mexico_City] PHP Warning:  getimagesize(.img/1.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:23:50 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: .img/1.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('.img/1.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('.img/1.jpg', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:24:00 America/Mexico_City] PHP Warning:  getimagesize(./img/1.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:24:00 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ./img/1.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('./img/1.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/1.jpg', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:24:05 America/Mexico_City] PHP Warning:  getimagesize(../img/1.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:24:05 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/1.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../img/1.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../img/1.jpg', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:25:12 America/Mexico_City] PHP Warning:  fopen(1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:25:12 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: 1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('1000162434.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('1000162434.jpg', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:25:26 America/Mexico_City] PHP Warning:  fopen(./img/1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:25:26 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ./img/1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('./img/100016243...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/100016243...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:25:33 America/Mexico_City] PHP Warning:  fopen(../img/1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:25:33 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../img/1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../img/10001624...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../img/10001624...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:25:41 America/Mexico_City] PHP Warning:  fopen(../../img/1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:25:41 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../../img/1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../../img/10001...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../../img/10001...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:25:47 America/Mexico_City] PHP Warning:  fopen(././img/1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[15-Mar-2024 22:25:47 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ././img/1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('././img/1000162...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('././img/1000162...', 30, 70, 300, 400, 'png')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:25:58 America/Mexico_City] PHP Warning:  getimagesize(././img/1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:25:58 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ././img/1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('././img/1000162...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('././img/1000162...', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:26:05 America/Mexico_City] PHP Warning:  getimagesize(./img/1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:26:05 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ./img/1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('./img/100016243...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('./img/100016243...', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:26:09 America/Mexico_City] PHP Warning:  getimagesize(../img/1000162434.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[15-Mar-2024 22:26:09 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/1000162434.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../img/10001624...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../img/10001624...', 30, 70, 300, 400, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:39:35 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Captur...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../fotos/Captur...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:39:47 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Captur...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../fotos/Captur...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:40:49 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Captur...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../fotos/Captur...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:41:28 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Captur...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../fotos/Captur...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:42:31 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Captur...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(43): FPDF->Image('../fotos/Captur...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:54:26 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(868): FPDF->Error('Image file name...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(45): FPDF->Image(NULL, 15.00125, 64.50125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:54:44 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(868): FPDF->Error('Image file name...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(45): FPDF->Image(NULL, 15.00125, 64.50125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:54:45 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(868): FPDF->Error('Image file name...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(45): FPDF->Image(NULL, 15.00125, 64.50125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 22:55:09 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[15-Mar-2024 22:58:04 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[15-Mar-2024 22:58:32 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[15-Mar-2024 22:58:46 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Image file has no extension and no type was specified: $imagen in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(876): FPDF->Error('Image file has ...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(45): FPDF->Image('$imagen')
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 23:01:00 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 45
+[15-Mar-2024 23:02:07 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[15-Mar-2024 23:02:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 45
+[15-Mar-2024 23:02:58 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[15-Mar-2024 23:03:20 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[15-Mar-2024 23:04:33 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[15-Mar-2024 23:05:01 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/../fot...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(44): FPDF->Image('../fotos/../fot...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 23:06:12 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/../fot...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(44): FPDF->Image('../fotos/../fot...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[15-Mar-2024 23:07:31 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[16-Mar-2024 01:09:09 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[16-Mar-2024 01:12:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[16-Mar-2024 01:13:12 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[16-Mar-2024 01:13:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:43
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 43
+[16-Mar-2024 01:13:50 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[16-Mar-2024 01:13:50 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 43
+[16-Mar-2024 01:13:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 63
+[16-Mar-2024 01:14:29 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 10
+[16-Mar-2024 01:14:29 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 43
+[16-Mar-2024 01:14:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:63
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 63
+[16-Mar-2024 01:18:27 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: /fotos/ in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(884): FPDF->Error('Unsupported ima...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Image('../fotos/', 170.00125, 33.00125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 01:18:29 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: /fotos/ in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(884): FPDF->Error('Unsupported ima...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Image('../fotos/', 170.00125, 33.00125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 01:19:40 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: /fotos/ in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(884): FPDF->Error('Unsupported ima...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Image('../fotos/', 170.00125, 33.00125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 01:20:17 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[16-Mar-2024 01:22:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:44
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 44
+[16-Mar-2024 01:22:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:44
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 44
+[16-Mar-2024 01:24:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 14
+[16-Mar-2024 01:26:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 14
+[16-Mar-2024 01:27:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 14
+[16-Mar-2024 01:27:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PDF' not found in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 14
+[16-Mar-2024 01:29:00 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[16-Mar-2024 01:29:55 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Captur...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(47): FPDF->Image('../fotos/Captur...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 01:30:25 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 01:31:05 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 01:32:43 America/Mexico_City] PHP Warning:  getimagesize(../fotos/fondo_reporte.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[16-Mar-2024 01:32:43 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/fondo_reporte.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/fondo_...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(47): FPDF->Image('../fotos/fondo_...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 01:33:33 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[16-Mar-2024 01:33:46 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Captura de pantalla (2).png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Captur...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(44): FPDF->Image('../fotos/Captur...', 30, 70, 230, 100, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 02:28:07 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[16-Mar-2024 02:47:09 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: jfif in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(884): FPDF->Error('Unsupported ima...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/1.jfif', 15.00125, 40.50125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:00:21 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: jfif in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(884): FPDF->Error('Unsupported ima...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/1.jfif', 15.00125, 40.50125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:09:45 America/Mexico_City] PHP Warning:  getimagesize(../fotos/19.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[16-Mar-2024 03:09:45 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/19.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/19.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/19.jpg', 15.00125, 40.50125, 20)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:14:48 America/Mexico_City] PHP Warning:  getimagesize(../fotos/24.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[16-Mar-2024 03:14:48 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/24.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/24.jpg')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/24.jpg', 15.00125, 40.50125, 20)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:17:05 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1262): FPDF->_parsepngstream(Resource id #917, '../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#3 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#4 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:44:31 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1262): FPDF->_parsepngstream(Resource id #917, '../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#3 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#4 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:46:54 America/Mexico_City] PHP Warning:  getimagesize(../fotos/Editor de Fotocollages_LfLqZe.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[16-Mar-2024 03:46:54 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/Editor de Fotocollages_LfLqZe.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Editor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/Editor...', 15.00125, 40.50125, 20)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:50:14 America/Mexico_City] PHP Warning:  getimagesize(../fotos/IMG_20240314_220626.jpg): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1240
+[16-Mar-2024 03:50:14 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/IMG_20240314_220626.jpg in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/IMG_20...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/IMG_20...', 15.00125, 40.50125, 20)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:53:19 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1262): FPDF->_parsepngstream(Resource id #928, '../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#3 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#4 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:54:56 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1262): FPDF->_parsepngstream(Resource id #922, '../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#3 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#4 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:56:49 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1262): FPDF->_parsepngstream(Resource id #922, '../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#3 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#4 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 03:58:22 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1262): FPDF->_parsepngstream(Resource id #922, '../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#3 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#4 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 04:02:54 America/Mexico_City] PHP Warning:  fopen(../fotos/290904.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[16-Mar-2024 04:02:54 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 04:06:02 America/Mexico_City] PHP Warning:  fopen(../fotos/290904.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[16-Mar-2024 04:06:02 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: ../fotos/290904.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('../fotos/290904...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/290904...', 15.00125, 40.50125, 20)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 11:02:49 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 11:04:25 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 11:15:06 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 11:15:58 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 11:31:48 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 11:50:53 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:1) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(999): FPDF->_checkoutput()
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(58): FPDF->Output()
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[16-Mar-2024 12:36:18 America/Mexico_City] PHP Fatal error:  Maximum execution time of 6 seconds exceeded in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1478
+[16-Mar-2024 12:51:23 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1613824 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[18-Mar-2024 05:11:24 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 3036776 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[18-Mar-2024 05:12:23 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 3036776 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[18-Mar-2024 05:12:25 America/Mexico_City] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 3036776 bytes) in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1252
+[18-Mar-2024 05:12:44 America/Mexico_City] PHP Fatal error:  Maximum execution time of 6 seconds exceeded in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1383
+[18-Mar-2024 05:13:31 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Unsupported image type: pdf in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(884): FPDF->Error('Unsupported ima...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(48): FPDF->Image('../fotos/jueves...', 15.00125, 40.50125, 20)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 05:19:16 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 13
+[18-Mar-2024 05:19:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[18-Mar-2024 05:19:46 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 13
+[18-Mar-2024 05:19:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[18-Mar-2024 05:19:49 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 13
+[18-Mar-2024 05:19:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[18-Mar-2024 05:19:49 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 13
+[18-Mar-2024 05:19:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[18-Mar-2024 05:19:58 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 13
+[18-Mar-2024 05:19:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[18-Mar-2024 05:20:20 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 13
+[18-Mar-2024 05:20:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[18-Mar-2024 05:21:11 America/Mexico_City] PHP Warning:  fopen(impresion.png): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 1259
+[18-Mar-2024 05:21:11 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: impresion.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsepng('impresion.png')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(42): FPDF->Image('impresion.png', 0, 0, 210, 280)
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 05:22:52 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: avenir-next-lt-pro-bold  in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(510): FPDF->Error('Undefined font:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(26): FPDF->SetFont('avenir-next-lt-...', '', 12)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 05:22:55 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: avenir-next-lt-pro-bold  in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(510): FPDF->Error('Undefined font:...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(26): FPDF->SetFont('avenir-next-lt-...', '', 12)
+#2 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 05:27:56 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 33
+[18-Mar-2024 05:27:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 59
+[18-Mar-2024 05:52:20 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/20240317_113240.heic in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/202403...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/202403...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:03:31 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/IMG_20240318_075228.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/IMG_20...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/IMG_20...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:03:34 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Editor de Fotocollages_814AkY.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Editor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/Editor...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:03:38 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/Editor de Fotocollages_814AkY.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/Editor...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/Editor...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:03:43 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image100.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image1...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image1...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:03:49 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image40.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image4...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image4...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:04:15 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image81.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image8...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image8...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:09:02 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image81.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image8...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image8...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 11:09:20 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image74.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image7...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image7...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 12:03:22 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image98.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image9...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image9...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 13:39:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'Company' (T_STRING), expecting ';' or ',' in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 30
+[18-Mar-2024 13:43:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ';' or ',' in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 23
+[18-Mar-2024 13:45:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ';' or ',' in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 23
+[18-Mar-2024 13:45:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ';' or ',' in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 13:46:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ';' or ',' in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 13:52:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 26
+[18-Mar-2024 13:52:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 26
+[18-Mar-2024 13:53:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 26
+[18-Mar-2024 13:54:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 26
+[18-Mar-2024 13:54:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 26
+[18-Mar-2024 13:54:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 26
+[18-Mar-2024 13:54:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 7
+[18-Mar-2024 13:55:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 9
+[18-Mar-2024 13:55:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 9
+[18-Mar-2024 13:55:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 9
+[18-Mar-2024 13:55:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 10
+[18-Mar-2024 15:56:12 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:25:53 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:26:09 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:26:12 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:26:18 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:26:45 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:28:59 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:29:07 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:29:16 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:29:24 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:33:28 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:33:30 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:37:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:38:09 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 51
+[18-Mar-2024 16:40:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 16:41:06 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 16:41:09 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 16:41:19 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 16:41:50 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 16:42:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 16:42:50 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 20
+[18-Mar-2024 16:42:50 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 16:43:20 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 20
+[18-Mar-2024 16:43:20 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 16:43:22 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 20
+[18-Mar-2024 16:43:22 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 16:43:22 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 20
+[18-Mar-2024 16:43:22 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 16:50:02 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image166.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image1...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image1...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 16:50:08 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Not a JPEG file: ../fotos/image162.png in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1244): FPDF->Error('Not a JPEG file...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/image1...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/image1...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[18-Mar-2024 17:01:13 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 17:05:40 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 53
+[18-Mar-2024 17:12:19 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 84
+[18-Mar-2024 17:15:32 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 84
+[18-Mar-2024 17:15:39 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 84
+[18-Mar-2024 17:16:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 84
+[18-Mar-2024 17:18:15 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 82
+[18-Mar-2024 17:18:15 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 84
+[18-Mar-2024 17:18:20 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 82
+[18-Mar-2024 17:18:20 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 84
+[18-Mar-2024 17:19:45 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 20
+[18-Mar-2024 17:19:45 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 17:19:47 America/Mexico_City] PHP Warning:  mysqli_query(): Empty query in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 20
+[18-Mar-2024 17:19:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 22
+[18-Mar-2024 17:32:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 124
+[18-Mar-2024 16:33:51 America/Mazatlan] PHP Warning:  require(header.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 15
+[18-Mar-2024 16:33:51 America/Mazatlan] PHP Warning:  require(header.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 15
+[18-Mar-2024 16:33:51 America/Mazatlan] PHP Fatal error:  require(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 15
+[18-Mar-2024 16:34:37 America/Mazatlan] PHP Warning:  require(./header.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 15
+[18-Mar-2024 16:34:37 America/Mazatlan] PHP Warning:  require(./header.php): failed to open stream: No such file or directory in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 15
+[18-Mar-2024 16:34:37 America/Mazatlan] PHP Fatal error:  require(): Failed opening required './header.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte.php on line 15
+[22-Mar-2024 13:19:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[22-Mar-2024 13:20:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[22-Mar-2024 13:51:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[22-Mar-2024 13:52:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php on line 68
+[26-Mar-2024 12:19:14 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/EVIDENCIA DE LONAS ADA ELSA_25_03_24.xlsx in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/EVIDEN...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/EVIDEN...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
+[02-May-2024 17:45:03 America/Mexico_City] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../fotos/EVIDENCIA DE LONAS ADA ELSA_25_03_24.xlsx in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php:271
+Stack trace:
+#0 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php(885): FPDF->_parsejpg('../fotos/EVIDEN...')
+#2 /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/reporte_evidencias_cs.php(57): FPDF->Image('../fotos/EVIDEN...', 30, 40, 230, 140, 'jpg')
+#3 {main}
+  thrown in /home1/systemxl/inquilinet.com.mx/sistemamorena/vistas/reportes/fpdf.php on line 271
